@@ -91,7 +91,7 @@
        <mobile_order>yes</mobile_order>
        <featured_coffee>
            <name>Komodo Dragon Blend</name>
-           <origin>Asia/Pacific</origin>
+           <origin>Asia</origin>
            <roast>medium roast</roast>
        </featured_coffee>
    </starbucks>
