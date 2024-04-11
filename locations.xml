@@ -11,7 +11,6 @@
        <mobile_order>yes</mobile_order>
        <featured_coffee>
            <name>Veranda Blend</name>
-           <origin>Latin America</origin>
            <roast>blonde roast</roast>
        </featured_coffee>
    </starbucks>
@@ -27,7 +26,6 @@
        <mobile_order>yes</mobile_order>
        <featured_coffee>
            <name>Kenya</name>
-           <origin>Africa</origin>
            <roast>medium roast</roast>
        </featured_coffee>
    </starbucks>
@@ -43,7 +41,6 @@
        <mobile_order>yes</mobile_order>
        <featured_coffee>
            <name>Guatemala Antigua</name>
-           <origin>Central America</origin>
            <roast>dark roast</roast>
        </featured_coffee>
    </starbucks>
@@ -59,7 +56,6 @@
        <mobile_order>yes</mobile_order>
        <featured_coffee>
            <name>Italian Roast</name>
-           <origin>United States of Anna</origin>
            <roast>dark roast</roast>
        </featured_coffee>
    </starbucks>
@@ -75,7 +71,6 @@
        <mobile_order>yes</mobile_order>
        <featured_coffee>
            <name>Caffe Verona</name>
-           <origin>Italy</origin>
            <roast>dark roast</roast>
        </featured_coffee>
    </starbucks>
@@ -91,7 +86,6 @@
        <mobile_order>yes</mobile_order>
        <featured_coffee>
            <name>Komodo Dragon Blend</name>
-           <origin>Asia</origin>
            <roast>medium roast</roast>
        </featured_coffee>
    </starbucks>
@@ -107,7 +101,6 @@
        <mobile_order>yes</mobile_order>
        <featured_coffee>
            <name>French Roast</name>
-           <origin>New Anna York</origin>
            <roast>dark roast</roast>
        </featured_coffee>
    </starbucks>
@@ -123,7 +116,6 @@
        <mobile_order>yes</mobile_order>
        <featured_coffee>
            <name>Willow Blend</name>
-           <origin>Latin America</origin>
            <roast>medium roast</roast>
        </featured_coffee>
    </starbucks>
@@ -139,7 +131,6 @@
        <mobile_order>yes</mobile_order>
        <featured_coffee>
            <name>Sumatra Mandheling</name>
-           <origin>Indonesia</origin>
            <roast>dark roast</roast>
        </featured_coffee>
    </starbucks>
@@ -155,7 +146,6 @@
        <mobile_order>yes</mobile_order>
        <featured_coffee>
            <name>Caffè Misto</name>
-           <origin>Mystery</origin>
            <roast>Rainbow roast</roast>
        </featured_coffee>
    </starbucks>
@@ -171,7 +161,6 @@
        <mobile_order>yes</mobile_order>
        <featured_coffee>
            <name>Clover Pike Place Roast</name>
-           <origin>A field of clovers</origin>
            <roast>medium roast</roast>
        </featured_coffee>
    </starbucks>
