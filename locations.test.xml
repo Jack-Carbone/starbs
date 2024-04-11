@@ -1,0 +1,167 @@
+<locations>
+   <starbucks>
+       <name>Starbucks - Bayview Terrace</name>
+       <address>
+           <street>452 Bayview Terrace</street>
+           <city>Ashburton</city>
+           <state>MD</state>
+           <zip>21615</zip>
+       </address>
+       <drive_thru>no</drive_thru>
+       <mobile_order>yes</mobile_order>
+       <featured_coffee>
+           <name>Veranda Blend</name>
+           <roast>blonde roast</roast>
+       </featured_coffee>
+   </starbucks>
+   <starbucks>
+       <name>Starbucks - Elmwood Street</name>
+       <address>
+           <street>1789 Elmwood St</street>
+           <city>Tacoma</city>
+           <state>WA</state>
+           <zip>98406</zip>
+       </address>
+       <drive_thru>yes</drive_thru>
+       <mobile_order>yes</mobile_order>
+       <featured_coffee>
+           <name>Kenya</name>
+           <roast>medium roast</roast>
+       </featured_coffee>
+   </starbucks>
+   <starbucks>
+       <name>Starbucks - Maplewood Drive</name>
+       <address>
+           <street>321 Maplewood Dr</street>
+           <city>Austin</city>
+           <state>TX</state>
+           <zip>78746</zip>
+       </address>
+       <drive_thru>no</drive_thru>
+       <mobile_order>yes</mobile_order>
+       <featured_coffee>
+           <name>Guatemala Antigua</name>
+           <roast>dark roast</roast>
+       </featured_coffee>
+   </starbucks>
+   <starbucks>
+       <name>Starbucks - Ocean View Boulevard</name>
+       <address>
+           <street>888 Ocean View Blvd</street>
+           <city>Virginia Beach</city>
+           <state>VA</state>
+           <zip>23451</zip>
+       </address>
+       <drive_thru>yes</drive_thru>
+       <mobile_order>yes</mobile_order>
+       <featured_coffee>
+           <name>Italian Roast</name>
+           <roast>dark roast</roast>
+       </featured_coffee>
+   </starbucks>
+   <starbucks>
+       <name>Starbucks - Main Street</name>
+       <address>
+           <street>123 Main St</street>
+           <city>Bozeman</city>
+           <state>MT</state>
+           <zip>59715</zip>
+       </address>
+       <drive_thru>no</drive_thru>
+       <mobile_order>yes</mobile_order>
+       <featured_coffee>
+           <name>Caffe Verona</name>
+           <roast>dark roast</roast>
+       </featured_coffee>
+   </starbucks>
+   <starbucks>
+       <name>Starbucks - Park Avenue</name>
+       <address>
+           <street>456 Park Ave</street>
+           <city>Denver</city>
+           <state>CO</state>
+           <zip>80206</zip>
+       </address>
+       <drive_thru>yes</drive_thru>
+       <mobile_order>yes</mobile_order>
+       <featured_coffee>
+           <name>Komodo Dragon Blend</name>
+           <roast>medium roast</roast>
+       </featured_coffee>
+   </starbucks>
+   <starbucks>
+       <name>Starbucks - Walnut Creek</name>
+       <address>
+           <street>2101 Walnut Creek Dr</street>
+           <city>Raleigh</city>
+           <state>NC</state>
+           <zip>27604</zip>
+       </address>
+       <drive_thru>no</drive_thru>
+       <mobile_order>yes</mobile_order>
+       <featured_coffee>
+           <name>French Roast</name>
+           <roast>dark roast</roast>
+       </featured_coffee>
+   </starbucks>
+   <starbucks>
+       <name>Starbucks - Birchwood Lane</name>
+       <address>
+           <street>789 Birchwood Ln</street>
+           <city>Portland</city>
+           <state>OR</state>
+           <zip>97201</zip>
+       </address>
+       <drive_thru>yes</drive_thru>
+       <mobile_order>yes</mobile_order>
+       <featured_coffee>
+           <name>Willow Blend</name>
+           <roast>medium roast</roast>
+       </featured_coffee>
+   </starbucks>
+   <starbucks>
+       <name>Starbucks - Elm Street</name>
+       <address>
+           <street>1452 Elm St</street>
+           <city>Manchester</city>
+           <state>NH</state>
+           <zip>03101</zip>
+       </address>
+       <drive_thru>no</drive_thru>
+       <mobile_order>yes</mobile_order>
+       <featured_coffee>
+           <name>Sumatra Mandheling</name>
+           <roast>dark roast</roast>
+       </featured_coffee>
+   </starbucks>
+   <starbucks>
+       <name>Starbucks - Central Avenue</name>
+       <address>
+           <street>388 Central Ave</street>
+           <city>St. Petersburg</city>
+           <state>FL</state>
+           <zip>33701</zip>
+       </address>
+       <drive_thru>yes</drive_thru>
+       <mobile_order>yes</mobile_order>
+       <featured_coffee>
+           <name>Caffè Misto</name>
+           <roast>Rainbow roast</roast>
+       </featured_coffee>
+   </starbucks>
+   <starbucks>
+       <name>Starbucks - Broadway</name>
+       <address>
+           <street>1928 Broadway</street>
+           <city>New York</city>
+           <state>NY</state>
+           <zip>10001</zip>
+       </address>
+       <drive_thru>no</drive_thru>
+       <mobile_order>yes</mobile_order>
+       <featured_coffee>
+           <name>Clover Pike Place Roast</name>
+           <roast>medium roast</roast>
+       </featured_coffee>
+   </starbucks>
+</locations>
